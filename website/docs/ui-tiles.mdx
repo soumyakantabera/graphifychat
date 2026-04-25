@@ -1,0 +1,26 @@
+---
+sidebar_position: 4
+---
+
+# UI tiles (SVG/HTML)
+
+The homepage uses reusable tiles to improve navigation and comprehension.
+
+## Tile anatomy
+
+- **Icon**: inline SVG for performance and style consistency
+- **Title**: concise, action-oriented heading
+- **Description**: one-sentence value statement
+- **Click target**: entire tile for easy interaction
+
+## UX benefits
+
+- Better scan speed than long text lists
+- Strong visual grouping of product areas
+- Mobile-friendly single-column fallback
+
+## Implementation notes
+
+- Icons are embedded directly in React components
+- Tile style is handled through `index.module.css`
+- Theme colors come from `src/css/custom.css`
