@@ -237,7 +237,6 @@ Persistent psychological character detection. Persists until contradicted. Top 2
 | [`coding-session.md`](examples/coding-session.md) | React dashboard, 8 turns, bug fix (`CHG:!`), frustrated→satisfied arc |
 | [`research-session.md`](examples/research-session.md) | Literature review, 2 attachments, open thread, archetype shift |
 | [`creative-session.md`](examples/creative-session.md) | Story writing, god node tracking, ambiguous ending decision |
-| [`graphifychat-own-session.md`](examples/graphifychat-own-session.md) | **Real 18-turn session building this skill** — all 8 layers live |
 
 ---
 
